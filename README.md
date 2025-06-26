@@ -1,4 +1,4 @@
-# booktorewebscrape-and-analysis
+# bookstorewebscrape-and-analysis
 
 This project demonstrates how to collect, clean, analyze, and visualize data scraped from an online bookstore. The dataset was gathered using Python web scraping techniques and analyzed with tools like Pandas, Seaborn, and Plotly. The result: a set of interactive insights into book pricing, availability, ratings, and more.
 
