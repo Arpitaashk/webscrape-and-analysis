@@ -62,13 +62,16 @@ bookstore-web-scraping-eda/
 
 # Install Reqiurement 
 
-pip install requests            #Download HTML content from website
-pip install beautifulsoup4      #Parse and extract data from HTML
-pip install pandas              #Data cleaning and manipulation
-pip install matplotlib          #Static visualizations (bar, scatter, etc.)
-pip install seaborn             #Statistical visualizations with nicer styles
-pip install plotly              #Interactive charts and dashboards
-pip install sqlite              #You can also use built-in sqlite3
+Install requirements
+│
+├── pip install requests #Download HTML content from website Final cleaned dataset
+├── pip install beautifulsoup4 # Parse and extract data from html
+├── pip install pandas # Data Cleaning and manipulation
+├── pip install seaborn # Static visualisation
+├── pip install plotly # Interactive chart and dashboard
+├── pip install matplotlib # Static visualisation
+├── pip install plotly # Interactive chart and dashboard
+├── pip install sqlite # You c an also use built-in sqlite3
 
 # How to Run
 ### 1. Clone the Repository
